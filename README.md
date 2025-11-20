@@ -1,11 +1,11 @@
 # ARC Raiders Game Data
 
-This repository contains compiled game data from the ARC Raiders Tech Test 2. This data powers [arctracker.io](https://arctracker.io), providing a comprehensive resource for the ARC Raiders community.
+This repository contains compiled game data from the ARC Raiders. This data powers [arctracker.io](https://arctracker.io), providing a comprehensive resource for the ARC Raiders community.
 
 ## Data Contents
 
 The repository includes structured JSON data for:
-- Missions
+- Quests
 - Items
 - Skill Nodes
 - Hideout Modules
@@ -45,15 +45,10 @@ https://github.com/RaidTheory/arcraiders-data
 
 Consider also adding a link to https://arctracker.io
 
-## Community
-
-Join our Discord community to discuss ARC Raiders, tools, and connect with other community developers:
-
-[![Discord](https://img.shields.io/discord/1371502069374255265?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/pAtQ4Aw8em)
 
 ## Contact
 
 For questions or suggestions, please open an issue in this repository.
 
 ---
-*Note: This data is compiled from the ARC Raiders Tech Test 2 and may be subject to changes as the game evolves.* 
+*Note: This data is compiled from the ARC Raiders and may be subject to changes as the game evolves.* 
