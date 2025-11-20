@@ -56,10 +56,7 @@
     "metal_parts": 8,
     "rubber_parts": 4
   },
-  "craftBench": [
-    "workbench",
-    "weapon_bench"
-  ],
+  "craftBench": "weapon_bench",
   "weightKg": 5,
   "effects": {
     "Durability": {

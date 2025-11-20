@@ -41,7 +41,7 @@
     "sr": "Ima pouzdanu štetu i preciznost."
   },
   "type": "Sniper Rifle",
-  "updatedAt": "11/12/2025",
+  "updatedAt": "11/20/2025",
   "value": 7000,
   "rarity": "Rare",
   "weightKg": 7,
@@ -181,5 +181,9 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
+  "recyclesInto": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2
+  },
   "isWeapon": true
 }

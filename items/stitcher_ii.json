@@ -206,5 +206,11 @@
   "salvagesInto": {
     "metal_parts": 6
   },
+  "craftBench": "weapon_bench",
+  "recipe": {
+    "stitcher_i": 1,
+    "metal_parts": 8,
+    "rubber_parts": 12
+  }
   "isWeapon": true
 }

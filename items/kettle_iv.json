@@ -152,6 +152,16 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "10/31/2025",
-  "isWeapon": true
+  "updatedAt": "11/20/2025",
+  "isWeapon": true,
+  "craftBench": "weapon_bench",
+  "recyclesInto": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 2
+  },
+  "recipe": {
+    "kettle_iii": 1,
+    "mechanical_components": 3,
+    "simple_gun_parts": 1
+  }
 }
