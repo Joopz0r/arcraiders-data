@@ -205,5 +205,10 @@
     "metal_parts": 14,
     "simple_gun_parts": 3
   },
+  "recipe": {
+    "arpeggio_i": 1,
+    "metal_parts": 14,
+    "simple_gun_parts": 3
+  },
   "isWeapon": true
 }
