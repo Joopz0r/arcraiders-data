@@ -14,7 +14,7 @@
   "updatedAt": "20/11/2025",
   "recyclesInto": {
     "oil": 2,
-    "ssensors": 1
+    "sensors": 1
   },
   "stackSize": 3,
   "recipe": {
