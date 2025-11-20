@@ -111,8 +111,8 @@
     }
   },
   "recyclesInto": {
-    "explosive_compound": 3,
-    "ARC Circuitry": 2
+    "explosive_compound": 1,
+    "ARC Circuitry": 1
   },
     "craftBench": "explosives_bench",
   "recipe": {

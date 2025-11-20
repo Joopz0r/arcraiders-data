@@ -42,7 +42,7 @@
   },
   "type": "Weapon",
   "rarity": "Uncommon",
-  "value": 640,
+  "value": 2000,
   "weightKg": 1,
   "effects": {
     "Durability": {
@@ -91,6 +91,10 @@
   "imageFilename": "https://cdn.arctracker.io/items/flame_spray.png",
   "updatedAt": "11/20/2025",
   "stackSize": 1,
+  "recyclesInto": {
+    "canister": 1,
+    "fireball_burner": 1
+  },
   "recipe": {
     "air_freshener": 1,
     "fireball_burner": 1

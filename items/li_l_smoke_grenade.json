@@ -42,7 +42,7 @@
   },
   "type": "Quick Use",
   "rarity": "Common",
-  "value": 1,
+  "value": 300,
   "weightKg": 0.15,
   "stackSize": 5,
   "effects": {
@@ -90,5 +90,9 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/li_l_smoke_grenade.png",
-  "updatedAt": "11/16/2025"
+  "updatedAt": "11/16/2025",
+  "recyclesInto": {
+    "plastic_parts": 1,
+    "chemicals": 1
+  }
 }

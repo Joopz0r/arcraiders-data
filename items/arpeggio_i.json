@@ -153,6 +153,10 @@
       "value": "Moderate"
     }
   },
+  "recyclesInto": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 2
+  },
   "recipe": {
     "mechanical_components": 6,
     "simple_gun_parts": 6
