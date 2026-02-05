@@ -72,6 +72,7 @@ const json_sort_orders = {
         otherRequirements: null,
         grantedItemIds: null,
         description: null,
+        objectivesOneRound: null,
         objectives: null,
         rewardItemIds: null,
         xp: null,
@@ -114,6 +115,7 @@ const json_sort_orders = {
       name: "projects",
       rules: {
         id: null,
+        disabled: null,
         name: null,
         description: null,
         phases: null,
