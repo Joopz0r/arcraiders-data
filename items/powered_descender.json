@@ -53,7 +53,8 @@
   "craftBench": "utility_bench",
   "stationLevelRequired": 3,
   "recipe": {
-    "power_rod": 1
+    "power_rod": 1,
+    "turbine_compressor": 1
   },
   "recyclesInto": {
     "advanced_electrical_components": 1,
@@ -62,7 +63,7 @@
   "salvagesInto": {
     "advanced_electrical_components": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/powered_descender.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/powered_descender.png",
   "updatedAt": "04/28/2026",
   "addedIn": "1.26"
 }
